@@ -1,6 +1,6 @@
-" Use the Solarized Dark theme
+" Use the Eldar Dark theme: https://github.com/agude/vim-eldar
 set background=dark
-colorscheme solarized
+colorscheme eldar
 let g:solarized_termtrans=1
 
 " Make Vim more useful
