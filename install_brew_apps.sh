@@ -71,13 +71,20 @@ brew cleanup
 ## Now, apps using cask
 
 CASKS=(
-  google-chrome
-  firefox
-  intellij-idea
-  evernote
+  amazon-music
   docker
-  slack
+  evernote
+  firefox
+  google-chrome
+  google-earth-pro
+  intellij-idea
   iterm2
+  java8
+  kitematic
+  slack
+  virtualbox
+  vmware-fusion
+  wireshark
 )
 
 brew cask install ${CASKS[@]}
